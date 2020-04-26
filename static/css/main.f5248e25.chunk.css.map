@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.module.css"],"names":[],"mappings":"AAAA,qBACE,cAAe,CACf,OAAQ,CACR,QAAS,CACT,sCAA+B,CAA/B,8BACF","file":"main.f5248e25.chunk.css","sourcesContent":[".fixed {\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%,-50%);\n}\n"]}
