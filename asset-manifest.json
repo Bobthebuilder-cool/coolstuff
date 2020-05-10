@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coolstuff/static/css/main.606e5c86.chunk.css",
-    "main.js": "/coolstuff/static/js/main.d8811143.chunk.js",
-    "main.js.map": "/coolstuff/static/js/main.d8811143.chunk.js.map",
+    "main.css": "/coolstuff/static/css/main.938687a4.chunk.css",
+    "main.js": "/coolstuff/static/js/main.5aecce1c.chunk.js",
+    "main.js.map": "/coolstuff/static/js/main.5aecce1c.chunk.js.map",
     "runtime~main.js": "/coolstuff/static/js/runtime~main.e05506dd.js",
     "runtime~main.js.map": "/coolstuff/static/js/runtime~main.e05506dd.js.map",
-    "static/js/2.38b41612.chunk.js": "/coolstuff/static/js/2.38b41612.chunk.js",
-    "static/js/2.38b41612.chunk.js.map": "/coolstuff/static/js/2.38b41612.chunk.js.map",
+    "static/js/2.a24248e7.chunk.js": "/coolstuff/static/js/2.a24248e7.chunk.js",
+    "static/js/2.a24248e7.chunk.js.map": "/coolstuff/static/js/2.a24248e7.chunk.js.map",
     "index.html": "/coolstuff/index.html",
-    "precache-manifest.d6a58d7be8a9e798757cf275a214c288.js": "/coolstuff/precache-manifest.d6a58d7be8a9e798757cf275a214c288.js",
+    "precache-manifest.8d55299883235304adb0c1c93938ae07.js": "/coolstuff/precache-manifest.8d55299883235304adb0c1c93938ae07.js",
     "service-worker.js": "/coolstuff/service-worker.js",
-    "static/css/main.606e5c86.chunk.css.map": "/coolstuff/static/css/main.606e5c86.chunk.css.map"
+    "static/css/main.938687a4.chunk.css.map": "/coolstuff/static/css/main.938687a4.chunk.css.map"
   }
 }
