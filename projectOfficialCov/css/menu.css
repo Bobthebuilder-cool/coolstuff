@@ -26,6 +26,7 @@
 .topmenu li a{
     color: blue;
     transition:color .3s ease-in-out;
+    text-decoration: none;
 }
 .topmenu li a:hover{
     text-decoration: none;
